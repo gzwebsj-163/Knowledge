@@ -39,7 +39,14 @@
 ### 运行环境
 - Node.js 16+
 - ESModule 模块化规范
-
+- 
+字段名	类型	说明	取值范围
+id	string	节点唯一标识	自定义唯一字符串
+title	string	知识节点标题	自定义
+content	string	节点详细正文内容	富文本 / 普通文本
+tags	string[]	分类标签数组	自定义业务标签
+connections	string[]	已关联节点 ID 集合	存储关联 id
+importance	number	知识重要性权重	0 ~ 1
 ### 模块引入
 ```typescript
 import { 
