@@ -1,0 +1,34 @@
+{
+  "name": "Knowledge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "exports": "./index.ts",
+  "types": "module",
+  "scripts": {
+    "dev": "ts-node index.ts",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  },
+  "compilerOptions": {
+    "module": "ESNext",
+    "moduleResolution": "NodeNext",
+    "esModuleInterop": true,
+    "allowImportingTsExtensions": true,
+    "skipLibCheck": true
+  },
+  "ts-node": {
+    "esm": true
+  },
+  "dependencies": {
+    "abort": "^1.0.2",
+    "krash": "^0.1.3"
+  }
+}
