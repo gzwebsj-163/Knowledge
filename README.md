@@ -3,7 +3,8 @@
 开发语言: TypeScript / Node.js
 文档类型: 标准开发接口文档
 项目名称: MarkdownMindMapKnowledgeBase 结构化知识库
-线上演示地址：https://open-md.inscode.cc/index.html![642b7aad-5a9d-4eea-b798-041b8815f4c4.png](https://raw.gitcode.com/user-images/assets/9898525/dd77a989-bcde-45c3-8087-b5045cb49a31/642b7aad-5a9d-4eea-b798-041b8815f4c4.png '642b7aad-5a9d-4eea-b798-041b8815f4c4.png')
+线上演示地址：https://open-md.inscode.cc/index.html
+![功能演示](https://github.com/gzwebsj-163/Knowledge/blob/main/img.png?raw=true)
 ---
 
 ## 目录
